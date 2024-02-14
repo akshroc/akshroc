@@ -1,3 +1,4 @@
+![logo](https://github.com/akshroc/akshroc/blob/main/Earth%20hour%20Banner%20Landscape.png)
 <h1 align="center">Hi , I'm Akash Kumar</h1>
 <h3 align="center">ServiceNow Developer | Automation Evangelist | Passionate about Driving Efficiency | Spearheading Change at Cognizant | Ex - Unisys</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
