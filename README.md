@@ -11,7 +11,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshroc" alt="akshroc" /></a>
 </p>
 
-- ►Sr. Infrastructure Developer at Cognizant
+**Sr. Infrastructure Developer at Cognizant**
 
 🌟 Unleashing Innovation in ServiceNow
 
@@ -25,7 +25,7 @@
 
 Now, I'm on a mission to redefine ServiceNow with process automation, cutting-edge integration, Active Directory (AD) magic, and a pinch of predictive intelligence. Let's connect, and together, we can script the future of ServiceNow!
 
-#Previous Chapters:
+**Previous Chapters**
 
 ►Enterprise Senior Associate (ServiceNow Developer) at Unisys (Jan 2019 - May 2022):
  - Where ServiceNow dreams became reality, and digital transformations were the norm. From Service Catalog to Predictive Intelligence, I did it all!
@@ -42,15 +42,3 @@ Now, I'm on a mission to redefine ServiceNow with process automation, cutting-ed
 Let's join forces and script a saga of innovation and excellence in the world of IT and ServiceNow. Connect with me, and let's turn possibilities into realities!
 
 -  How to reach me **https://www.linkedin.com/in/itsmeakashkumar/**
-
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshroc&show_icons=true&locale=en&layout=compact" alt="akshroc" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshroc&show_icons=true&locale=en" alt="akshroc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshroc&" alt="akshroc" /></p>
